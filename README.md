@@ -1,4 +1,10 @@
 # RPA-SEA-CurrencyExchangeRates
+Created By; Danielle Espiritu
+
+Robotic Process Automation (UiPath Studio 2019)
+
+
+
 Automatically gathers the latest SEA currency exchange rates and sends it to the recipient's email together with an excel copy of the report.
 
 
